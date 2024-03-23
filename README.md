@@ -11,3 +11,7 @@
 </ul>
 
 <h1>Imagens dos dashboards criados</h1>
+<img src="https://github.com/AndreKomori/dashboards_power_bi/blob/master/assets/projeto1.png">
+<img src="https://github.com/AndreKomori/dashboards_power_bi/blob/master/assets/projeto2.png">
+<img src="https://github.com/AndreKomori/dashboards_power_bi/blob/master/assets/projeto3.png">
+<img src="https://github.com/AndreKomori/dashboards_power_bi/blob/master/assets/projeto.png">
